@@ -1,0 +1,25 @@
+{
+  "name": "new-aricles",
+  "version": "1.0.0",
+  "description": "Where you cand find articles to read.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgardMAv/News-articles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgardMAv/News-articles/issues"
+  },
+  "homepage": "https://github.com/EdgardMAv/News-articles#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.6.11"
+  }
+}
